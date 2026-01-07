@@ -27,7 +27,7 @@ export default function Hero() {
           <a
             href="https://github.com/0xSaifX"
             target="_blank"
-            className="border border-zinc-200 px-6 py-3 rounded-lg hover:border-emerald-400 transition">
+            className="border border-zinc-2z00 px-6 py-3 rounded-lg hover:border-emerald-400 transition">
             GitHub
           </a>
         </div>
