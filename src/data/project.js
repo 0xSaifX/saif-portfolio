@@ -15,7 +15,7 @@ export const projects = [
   },
   {
     title: "Flutter Interface App",
-    description: "Admin dashboard UI with responsive layout for mobile app.",
+    description: "Flutter with Admin dashboard UI with responsive layout for mobile app.",
     tech: ["Dart Prog Language", "C + +"],
     github: "https://github.com/0xSaifX/Scooter-eCommerce-App-created",
     live: "https://saif-portfolio-ruddy.vercel.app",
