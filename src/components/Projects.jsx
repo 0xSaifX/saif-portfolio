@@ -3,7 +3,7 @@ import { projects } from "../data/project";
 
 export default function Projects() {
   return (
-    <section id="projects" className="py-24">
+    <section id="projects" className="py-14">
       <h2 className="text-3xl font-bold mb-10">
         Selected <span className="text-emerald-400">Projects</span>
       </h2>
@@ -16,8 +16,7 @@ export default function Projects() {
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.4, delay: index * 0.1 }}
             viewport={{ once: true }}
-            className="border border-zinc-800 rounded-xl p-6 hover:-translate-y-1 transition"
-          >
+            className="border border-zinc-800 rounded-xl p-6 hover:-translate-y-1 transition" >
             <h3 className="text-xl font-semibold mb-2">
               {project.title}
             </h3>
@@ -30,8 +29,7 @@ export default function Projects() {
               {project.tech.map((t) => (
                 <span
                   key={t}
-                  className="text-sm px-3 py-1 rounded-full bg-zinc-800 text-emerald-400"
-                >
+                  className="text-sm px-3 py-1 rounded-full bg-zinc-800 text-emerald-400" >
                   {t}
                 </span>
               ))}

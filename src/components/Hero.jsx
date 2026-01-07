@@ -6,9 +6,8 @@ export default function Hero() {
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.6 }}
-      >
-        <h1 className="text-4xl sm:text-5xl font-bold mb-4">
+        transition={{ duration: 0.6 }} >
+        <h1 className="text-2xl sm:text-4xl font-bold mb-4">
           Hi, I’m <span className="text-emerald-400">Saif</span> 
         </h1>
 
@@ -20,14 +19,14 @@ export default function Hero() {
         <div className="flex gap-4">
           <a
             href="#projects"
-            className="bg-emerald-400 text-zinc-100 px-6 py-3 rounded-lg font-medium hover:bg-emerald-300 transition">
+            className="bg-emerald-400 text-zinc-100 px-6 py-3 rounded-lg font-medium hover:bg-emerald-500 transition">
             View Projects
           </a>
 
           <a
             href="https://github.com/0xSaifX"
             target="_blank"
-            className="border border-zinc-200 px-6 py-3 rounded-lg hover:border-emerald-400 transition">
+            className="border border-zinc-200 text-white px-6 py-3 rounded-lg hover:border-emerald-400 transition">
             GitHub
           </a>
         </div>
