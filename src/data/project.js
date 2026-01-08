@@ -11,7 +11,7 @@ export const projects = [
     description: "Fully Responsive School website with reusable and responsive components pixel-accurate designs for all screen sizes.",
     tech: ["React", "Tailwind"],
     github: "https://github.com/0xSaifX/My-learning-roadmap1",
-    live: "https://saif-scooter.vercel.app",
+    live: "https://saif-edusity.vercel.app",
   },
   {
     title: "Dashboard Interface (eCommerce UI)",
