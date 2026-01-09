@@ -14,7 +14,7 @@ export const projects = [
     live: "https://saif-edusity.vercel.app",
   },
   {
-    title: "Dashboard Interface (eCommerce UI)",
+    title: "Grabit Interface (eCommerce UI)",
     description: "Designed and implemented a modern eCommerce landing page with real-world UI pattern.",
     tech: ["React", "Tailwind"],
     github: "https://github.com/0xSaifX/my-figma-ecommerce-project",
