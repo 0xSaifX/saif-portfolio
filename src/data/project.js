@@ -7,7 +7,7 @@ export const projects = [
     live: "https://saif-npl-project.vercel.app",
   },
   {
-    title: "Edusity Platform UI",
+    title: "Edusity University Platform UI",
     description: "Fully Responsive School website with reusable and responsive components pixel-accurate designs for all screen sizes.",
     tech: ["React", "Tailwind"],
     github: "https://github.com/0xSaifX/My-learning-roadmap1",
