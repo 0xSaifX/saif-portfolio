@@ -7,20 +7,20 @@ export default function Navbar() {
         </h1>
 
         <div className="flex items-center gap-6 text-sm text-zinc-100">
-          <a href="#projects" className="hover:text-emerald-400 transition">
+          <a href="#projects" className="hover:text-emerald- no-underline transition">
             Projects
           </a>
-          <a href="#skills" className="hover:text-emerald-400 transition">
+          <a href="#skills" className="hover:text-emerald- no-underline transition">
             Skills
           </a>
-          <a href="#contact" className="hover:text-emerald-400 transition">
+          <a href="#contact" className="hover:text-emerald- no-underline transition">
             Contact
           </a>
 
           <a
             href="/resume.pdf"
             download
-            className="border border-zinc-300 px-4 py-2 rounded-lg text-zinc-200 hover:border-emerald-400 transition">
+            className="border border-zinc-300 px-4 py-2 no-underline rounded-lg text-zinc-200 hover:border-emerald-400 transition">
             Resume
           </a>
         </div>
