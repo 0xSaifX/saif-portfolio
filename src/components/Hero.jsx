@@ -19,7 +19,7 @@ export default function Hero() {
         <div className="flex gap-4">
           <a
             href="#projects"
-            className="bg-emerald-400 text-zinc-100 px-6 py-3 rounded-lg font-medium hover:bg-emerald-500 transition">
+            className="bg-emerald-400 decoration-none text-zinc-100 px-6 py-3 rounded-lg font-medium hover:bg-emerald-500 transition">
             View Projects
           </a>
 
