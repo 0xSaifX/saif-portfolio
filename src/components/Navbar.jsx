@@ -7,13 +7,13 @@ export default function Navbar() {
         </h1>
 
         <div className="flex items-center gap-6 text-sm text-zinc-100">
-          <a href="#projects" className="hover:text-emerald- no-underline transition">
+          <a href="#projects" className="hover:text-emerald-400 no-underline transition">
             Projects
           </a>
-          <a href="#skills" className="hover:text-emerald- no-underline transition">
+          <a href="#skills" className="hover:text-emerald-400 no-underline transition">
             Skills
           </a>
-          <a href="#contact" className="hover:text-emerald- no-underline transition">
+          <a href="#contact" className="hover:text-emerald-400 no-underline transition">
             Contact
           </a>
 
