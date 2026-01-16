@@ -18,6 +18,6 @@ export const projects = [
     description: "Designed and implemented a modern eCommerce landing page with real-world UI pattern.",
     tech: ["React", "Tailwind"],
     github: "https://github.com/0xSaifX/my-figma-ecommerce-project",
-    live: "https://saif-grabit.vercel.app",
+    live: "https://grabit-alpha.vercel.app/",
   },
 ]
