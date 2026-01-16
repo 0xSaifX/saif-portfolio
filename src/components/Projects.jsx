@@ -36,10 +36,10 @@ export default function Projects() {
             </div>
 
             <div className="flex gap-4">
-              <a href={project.live} target="_blank" className="text-emerald-400 decoration-none ">
+              <a href={project.live} target="_blank" className="text-emerald-400 no-underline">
                 Live
               </a>
-              <a href={project.github} target="_blank" className="text-zinc-400 decoration-none hover:text-emerald-400">
+              <a href={project.github} target="_blank" className="text-zinc-400 no-underline hover:text-emerald-400">
                 GitHub
               </a>
             </div>
