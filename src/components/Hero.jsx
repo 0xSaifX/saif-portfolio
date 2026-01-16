@@ -19,14 +19,14 @@ export default function Hero() {
         <div className="flex gap-4">
           <a
             href="#projects"
-            className="bg-emerald-400 decoration-none text-zinc-100 px-6 py-3 rounded-lg font-medium hover:bg-emerald-500 transition">
+            className="bg-emerald-400 no-underline text-zinc-100 px-6 py-3 rounded-lg font-medium hover:bg-emerald-500 transition">
             View Projects
           </a>
 
           <a
             href="https://github.com/0xSaifX"
             target="_blank"
-            className="border border-zinc-200 text-white px-6 py-3 rounded-lg hover:border-emerald-400 transition">
+            className="border border-zinc-200 no-underline text-white px-6 py-3 rounded-lg hover:border-emerald-400 transition">
             GitHub
           </a>
         </div>
