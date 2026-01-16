@@ -11,7 +11,7 @@ export default function Contact() {
 
       <a
         href="mailto:saif.tech@gmail.com"
-        className="text-emerald-400 hover:underline" >
+        className="text-emerald-400 no-underline hover:underline" >
         saif.tech@gmail.com
       </a>
     </section>
