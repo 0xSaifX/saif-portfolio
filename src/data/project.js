@@ -25,6 +25,6 @@ export const projects = [
     description: "A modern eCommerce marketing application built with React and Tailwind CSS.",
     tech: ["React", "Tailwind"],
     github: "https://github.com/0xSaifX/scooter-commerce",
-    live: "https://Scooter.vercel.app/",
+    live: "https://scooter.vercel.app/",
   },
 ]
