@@ -6,7 +6,7 @@ export default function Navbar() {
           Saif
         </h1>
 
-        <div className="flex items-center gap-6 text-sm text-white/90">
+        <div className="flex items-center gap-6 text-sm text-white">
           <a href="#projects" className="hover:text-emerald-400 no-underline transition">
             Projects
           </a>
