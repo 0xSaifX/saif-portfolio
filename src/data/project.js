@@ -28,6 +28,10 @@ export const projects = [
     live: "https://scooter-commerce.vercel.app/",
   },
   {
-    title: "DevCanvas - AI Component Builder"
+    title: "DevCanvas - AI Component Builder",
+    description: "A SaaS tool converting screenshots to React/Vue/HTML",
+    tech: ["Next.js 14", "TypeScript", "Tailwind CSS"],
+    github: "https://github.com/0xSaifX/devcanvas",
+    live: "https://devcanvas.vercel.app/",
   }
 ]
