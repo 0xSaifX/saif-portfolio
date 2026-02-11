@@ -27,4 +27,7 @@ export const projects = [
     github: "https://github.com/0xSaifX/scooter-commerce",
     live: "https://scooter-commerce.vercel.app/",
   },
+  {
+    title: "DevCanvas - AI Component Builder"
+  }
 ]
