@@ -18,7 +18,7 @@ export default function Navbar() {
           </a>
 
           <a
-            href="/resume.pdf"
+            href="/resume.docx"
             download
             className="border border-zinc-300 px-4 py-2 no-underline rounded-lg text-zinc-200 hover:border-emerald-400 transition">
             Resume       
