@@ -32,6 +32,6 @@ export const projects = [
     description: "A SaaS tool converting screenshots to React/Vue/HTML",
     tech: ["Next.js 14", "TypeScript", "Tailwind CSS"],
     github: "https://github.com/0xSaifX/devcanvas",
-    live: "https://devcanvas.vercel.app/",
+    live: "https://devcanvas-lemon.vercel.app/",
   }
 ]
