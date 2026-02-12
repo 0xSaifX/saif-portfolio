@@ -13,7 +13,7 @@ export default function Hero() {
 
         <p className="text-zinc-400 max-w-xl mb-8">
            Frontend Developer building clean, responsive web interfaces
-          with React and Tailwind CSS.
+          with React, Next.js and Tailwind CSS.
         </p>
 
         <div className="flex gap-4">
