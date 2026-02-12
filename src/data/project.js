@@ -1,3 +1,5 @@
+import { title } from "framer-motion/client";
+
 export const projects = [
   {
     title: "Real NPL Commerce Page",
@@ -34,5 +36,11 @@ export const projects = [
     github: "https://github.com/0xSaifX/devcanvas",
     live: "https://devcanvas-lemon.vercel.app/",
   },
-  
+  {
+    title: "NASA Space Explorer",
+    description: "A dashboard showcasing NASA's space exploration missions, utilizing React and Tailwind CSS for a responsive and visually appealing design.",
+    tech: ["React", "Tailwind"],
+    github: "https://github.com/0xSaifX/nasa-space-exploration-dashboard",
+    live: "https://nasa-space-exploration-dashboard.vercel.app/",
+  },
 ]
