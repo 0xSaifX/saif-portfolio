@@ -8,11 +8,11 @@ export default function Hero() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6 }} >
         <h1 className="text-2xl sm:text-4xl font-bold mb-4">
-          Hi, I’m <span className="text-emerald-400">Saif by name</span> 
+          Hi, I’m <span className="text-emerald-400">Saif</span> 
         </h1>
 
         <p className="text-zinc-400 max-w-xl mb-8">
-          Junior Frontend Developer building clean, responsive web interfaces
+           Frontend Developer building clean, responsive web interfaces
           with React and Tailwind CSS.
         </p>
 
