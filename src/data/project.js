@@ -33,5 +33,6 @@ export const projects = [
     tech: ["Next.js 14", "TypeScript", "Tailwind CSS"],
     github: "https://github.com/0xSaifX/devcanvas",
     live: "https://devcanvas-lemon.vercel.app/",
-  }
+  },
+  
 ]
