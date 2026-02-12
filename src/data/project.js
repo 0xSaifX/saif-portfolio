@@ -41,6 +41,6 @@ export const projects = [
     description: "I've built you a stunning, production-ready NASA Space Data Dashboard that fetches real-time data from NASA's APIs. It features a sleek, responsive design and interactive charts to visualize space exploration data. Check it out and explore the cosmos with me!",
     tech: ["React", "Tailwind"],
     github: "https://github.com/0xSaifX/NASA-Space-Explorer",
-    live: "https://nasa-space-Explorer-dashboard.vercel.app/",
+    live: "https://nasa-space-explorer-ashen.vercel.app/",
   },
 ]
